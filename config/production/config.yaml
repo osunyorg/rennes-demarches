@@ -2,6 +2,11 @@
 
 baseURL: https://demarches.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 72a88949-143d-4029-9f66-dee7c530f3fa
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
