@@ -6,9 +6,4 @@ items:
   kind: url
   new_tab: false
   children: []
-- title: Nos actions
-  target: https://demarches.rennes.osuny.site/type-de-contenu/nos-actions
-  kind: url
-  new_tab: false
-  children: []
 
